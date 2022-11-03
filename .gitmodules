@@ -1,0 +1,3 @@
+[submodule "public/public/kaos"]
+	path = public/public/kaos
+	url = https://github.com/ungtb10d/kaos
